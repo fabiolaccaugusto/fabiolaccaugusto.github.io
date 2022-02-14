@@ -1075,6 +1075,9 @@ section {
 .contact .info .email,
 .contact .info .phone {
     margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
 }
 
 .contact .info .email:hover i,
